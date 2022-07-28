@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.4" height="12.4" viewBox="0 0 12.4 12.4">
+  <g id="vuesax_linear_arrow-down" data-name="vuesax/linear/arrow-down" transform="translate(12.4) rotate(90)">
+    <g id="arrow-down" transform="translate(0)">
+      <path id="Vector" d="M8.184,0,4.815,3.369a1.026,1.026,0,0,1-1.447,0L0,0" transform="translate(2.108 4.624)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H12.4V12.4H0Z" transform="translate(12.4 12.4) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
